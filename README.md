@@ -3,7 +3,6 @@ currently working on my [website](https://shaafi-website.vercel.app/) <br>
 building a course planner for UVic<br>
 anticipating to make systems easy for people to understand and use<br>
 
-# 💻 Tech Stack:
 # 💻 Tech Stack
 
 ## Languages
