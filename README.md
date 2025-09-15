@@ -2,6 +2,7 @@
 currently working on my [website](https://www.mshaafijahangir.com/) <br>
 building a course planner for UVic<br>
 anticipating to make systems easy for people to understand and use<br>
+check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
