@@ -4,10 +4,14 @@ building a course planner for UVic<br>
 anticipating to make systems easy for people to understand and use<br>
 check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# Hello World! I’m Shaafi 👋
+Full-stack developer focused on building reliable, maintainable software systems and clean user experiences.
+
+- 🌐 Website: https://www.mshaafijahangir.com/
+- 🔗 Linktree: https://linktr.ee/mshaafijahangir
+- 🧠 Currently building: a UVic course planner
+
+## Full-Stack Toolkit
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -19,8 +23,10 @@ check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### Database
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
