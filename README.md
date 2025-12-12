@@ -4,13 +4,6 @@ building a course planner for UVic<br>
 anticipating to make systems easy for people to understand and use<br>
 check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
 
-# Hello World! I’m Shaafi 👋
-Full-stack developer focused on building reliable, maintainable software systems and clean user experiences.
-
-- 🌐 Website: https://www.mshaafijahangir.com/
-- 🔗 Linktree: https://linktr.ee/mshaafijahangir
-- 🧠 Currently building: a UVic course planner
-
 ## Full-Stack Toolkit
 
 ### Frontend
