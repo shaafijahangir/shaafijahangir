@@ -1,6 +1,6 @@
 # Hello World! I'm Shaafi and I build and maintain software systems.
 currently working on my [website](https://www.mshaafijahangir.com/) <br>
-building a course planner for UVic<br>
+building an agentic LMS<br>
 anticipating to make systems easy for people to understand and use<br>
 check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
 
