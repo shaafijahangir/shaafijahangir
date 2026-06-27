@@ -1,6 +1,6 @@
 # Hello World! I'm Shaafi and I build and maintain software systems.
 currently working on my [website](https://www.mshaafijahangir.com/) <br>
-here's my [resume]([http://mshaafijahangir.com/resume.pdf]) <br>
+here's my [resume](http://mshaafijahangir.com/resume.pdf) <br>
 building an agentic LMS<br>
 anticipating to make systems easy for people to understand and use<br>
 check out my [linktree](https://linktr.ee/mshaafijahangir)<br>
